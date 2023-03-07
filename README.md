@@ -1,2 +1,2 @@
 # YaPract_python
-practice shelf.
+practice shelf
